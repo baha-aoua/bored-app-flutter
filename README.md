@@ -1,6 +1,6 @@
 # boredapp
 
-A new Flutter project.
+Flutter app to tell you what to do when you are bored
 
 ## Getting Started
 
